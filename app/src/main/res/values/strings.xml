@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">DinnerDecider</string>
     <string name="chinese_food">Chinese</string>
+    <string name="app_logo">appLogo</string>
+    <string name="add_food">Add new food...</string>
+    <string name="add_foo_btn">ADD FOOD</string>
+    <string name="decide_btn">DECIDE!</string>
+
 </resources>
